@@ -1,0 +1,760 @@
+#EXTM3U 
+
+
+#EXTINF:0,TV KUJAWY
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:0,STELLA TV
+rtmp://live-tvk.tvkstella.pl/flvplayback/StellaLive
+#EXTINF:0,TV TORUN
+http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
+#EXTINF:0,TWOJA TV
+#http://94.246.169.19/ttv_hls/live_720p/index.m3u8
+#EXTINF:-1,Republika TV
+http://m1-tvrepublika.4vod.tv/smil:premium_abr.ism/playlist.m3u8
+#EXTINF:-1,Republika TV
+https://ec08.luz1.cache.orange.pl/jupiter/o2-cl7/live/tvrepublika/live-tvrepublika-1700k.m3u8
+#EXTINF:-1, SFERA TV
+rtmp://stream.sferatv.pl:1935/sferalive/live2
+
+#EXTINF:-1, Czworka
+http://stream14.polskieradio.pl/pr4_video/video_pr4.stream/chunklist_w1008013469.m3u8
+#EXTINF:-1, 4fun TV
+https://stream.4fun.tv:8888/hls/4f_high/index.m3u8
+#EXTINF:-1, TV Jasło
+https://s1.aztv.pl/aztv_tvjaslo/aztv_tvjaslo.stream/chunklist_w687017831.m3u8
+#EXTINF:-1, TRWAM
+http://trwamtv.live.e56-po.insyscd.net/cl01/out/u/trwam_3.m3u8?m=1564468349
+#EXTINF:-1, TVT
+http://176.107.129.219/media/tvt/index.m3u8
+#EXTINF:-1, ASTA TV
+https://cdn3.mavi.video/streams/12/720/playlist.m3u8
+#EXTINF:-1, Toya
+#http://cdn-1-go.toya.net.pl:8080/live/WKDZzgzwK72DTEqwKSynzg/1567212173/001_toyahd_hls/02.m3u8?
+#EXTINF:-1, TV ZGORZELEC
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1,EzoTV
+http://live.ezotv.pl:1935/live/EZOTV/chunklist_w1702965127.m3u8
+#EXTINF:-1, MANGO
+https://stream.mango.pl:4443/mango/_definst_/live/chunklist_w759529440.m3u8
+#EXTINF:-1, 1 Music Channel 
+http://1music.hu/1music.m3u8
+#EXTINF:-1, Deluxe Music 
+#https://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
+#EXTINF:-1, Russia Today 
+https://rt-news-gd.secure2.footprint.net/1103_2500Kb.m3u8
+#EXTINF:-1, Al Jazeera English 
+https://english.streaming.aljazeera.net/aljazeera/english2/index2073.m3u8
+
+
+
+#EXTINF:-1, WTK
+http://188.47.232.6/jupiter/o1-cl4/live/wtk-a-wtktv/live-wtk-a-wtktv-3600k.m3u8
+#EXTINF:-1, dla ciebie tv
+http://94.246.128.53:1935/tv/_definst_/dlaCiebieTv/playlist.m3u8
+#EXTINF:-1, Hope Channel
+http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
+#EXTINF:-1, tv pogranicze
+http://95.160.28.218:1935/pogranicze/myStream/chunks.m3u8
+
+
+#EXTINF:-1, tv wielkopolska
+http://stream4.nadaje.com:15308/live/stream-1/playlist.m3u8
+#EXTINF:-1, Zest TV
+http://188.35.9.5:10007/stolen/214g/parasite.install
+
+#EXTINF: -1 tvg-id="13.ulica.pl" tvg-name="13 Ulica FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL00113UlicaFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL001:13 Ulica FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983028
+#EXTINF: -1 tvg-id="ale.kino+.pl" tvg-name="Ale Kino  FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL002AleKinoFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL002:Ale Kino  FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983029
+#EXTINF: -1 tvg-id="4fun.tv.pl" tvg-name="4Fun TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL0034FunTV.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL003:4Fun TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983030
+#EXTINF: -1 tvg-id="animal.planet.pl" tvg-name=":ANIMAL PLANET HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL004ANIMALPLANETHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL004:ANIMAL PLANET HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983031
+#EXTINF: -1 tvg-id="atm.rozrywka.pl" tvg-name="ATM ROZRYWKA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL005ATMROZRYWKATV.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL005:ATM ROZRYWKA TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983032
+#EXTINF: -1 tvg-id="axn.black.pl" tvg-name="AXN Black HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL006AXNBlackHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL006:AXN Black HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983033
+#EXTINF: -1 tvg-id="axn.pl" tvg-name="AXN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL007AXNHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL007:AXN HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983034
+#EXTINF: -1 tvg-id="axn.spin.pl" tvg-name="AXN SPIN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL008AXNSPINHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL008:AXN SPIN HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983035
+#EXTINF: -1 tvg-id="axn.white.pl" tvg-name="AXN White HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL009AXNWhiteHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL009:AXN White HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983036
+#EXTINF: -1 tvg-id="canal+.sport.pl" tvg-name="Canal+ Sport FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL010Canal+SportFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL010:Canal+ Sport FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983037
+#EXTINF: -1 tvg-id="bbc.earth.pl" tvg-name="BBC Earth HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL011BBCEarthHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", BBC Earth HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983038
+#EXTINF: -1 tvg-id="bbc.first.pl" tvg-name="BBC First" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL012BBCFIRST.png" group-title="www.iptvdarmowe.online | DARMOWA TV", BBC First
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983039
+#EXTINF: -1 tvg-name="Chillizet" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL013Chillizet.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Chillizet
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983040
+#EXTINF: -1 tvg-id="boomerang.pl" tvg-name="Boomerang HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL014BoomerangHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Boomerang HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983041
+#EXTINF: -1 tvg-id="canal+.family.pl" tvg-name="CANAL  FAMILY FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL015CANALFAMILYFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL015:CANAL  FAMILY FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983042
+#EXTINF: -1 tvg-id="canal+.pl" tvg-name="CANAL  FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL016CANALFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL016:CANAL  FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983043
+#EXTINF: -1 tvg-id="canal+.film.pl" tvg-name="CANAL  FILM FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL017CANALFILMFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL017:CANAL  FILM FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983044
+#EXTINF: -1 tvg-id="canal+.seriale.pl" tvg-name="Canal  Seriale FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL018CanalSerialeFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL018:Canal  Seriale FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983045
+#EXTINF: -1 tvg-id="canal+.sport.2.pl" tvg-name="CANAL  SPORT 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL019CANALSPORT2FHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL019:CANAL  SPORT 2 FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983046
+#EXTINF: -1 tvg-id="canal+.sport.pl" tvg-name="CANAL  SPORT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL020CANALSPORTFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL020:CANAL  SPORT FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983047
+#EXTINF: -1 tvg-id="cartoon.network.pl" tvg-name="CARTOON NETWORK HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL021CARTOONNETWORKHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL021:CARTOON NETWORK HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983048
+#EXTINF: -1 tvg-id="CBS Action" tvg-name="CBS ACTION" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL022CBSACTION.png" group-title="www.iptvdarmowe.online | DARMOWA TV", CBS Action
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983049
+#EXTINF: -1 tvg-id="CBS Europa" tvg-name="CBS EUROPA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL023CBSEUROPAHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", CBS Europa
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983050
+#EXTINF: -1 tvg-id="CBS REALITY POLSKA" tvg-name="CBS REALITY HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL024CBSREALITYHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", CBS REALITY POLSKA
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983051
+#EXTINF: -1 tvg-id="cinemax2.pl" tvg-name="CINEMAX 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL025CINEMAX2HD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL025:CINEMAX 2 HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983052
+#EXTINF: -1 tvg-id="cinemax.pl" tvg-name="CINEMAX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL026CINEMAXHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL026:CINEMAX HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983053
+#EXTINF: -1 tvg-id="comedy.central.pl" tvg-name="Comedy Central FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL027ComedyCentralFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Comedy Central FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983054
+#EXTINF: -1 tvg-id="da.vinci.pl" tvg-name="Da Vinci Learning" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL028DaVinciLearning.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Da Vinci Learning
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983055
+#EXTINF: -1 tvg-name="Disco Polo Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL029DISCOPOLOMUSIC.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Disco Polo Music
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983056
+#EXTINF: -1 tvg-id="discovery.pl" tvg-name="Discovery Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL030DiscoveryChannelFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL030:Discovery Channel FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983057
+#EXTINF: -1 tvg-id="Discovery Historia" tvg-name="Discovery Historia" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL031DiscoveryHISTORIA.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Discovery Historia
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983058
+#EXTINF: -1 tvg-id="Discovery Life" tvg-name="Discovery Life" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL032DiscoveryLifeFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Discovery Life
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983059
+#EXTINF: -1 tvg-id="discovery.science.pl" tvg-name="Discovery Science FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL033DiscoveryScienceFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL033:Discovery Science FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983060
+#EXTINF: -1 tvg-name="Discovery Turbo Xtra HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL034DiscoveryTurboXtraHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Discovery Turbo Xtra HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983061
+#EXTINF: -1 tvg-id="disney.pl" tvg-name="Disney Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL035DisneyChannelFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL035:Disney Channel FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983062
+#EXTINF: -1 tvg-id="da.vinci.pl" tvg-name="Da Vinci" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL036DaVinci.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Da Vinci
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983063
+#EXTINF: -1 tvg-id="disney.xd.pl" tvg-name="Disney XD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL037DisneyXD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL037:Disney XD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983064
+#EXTINF: -1 tvg-id="Domo+" tvg-name="Domo+" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL038DOMOFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Domo+
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983065
+#EXTINF: -1 tvg-name="E! Entertainment" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL039E!FHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", E! Entertainment
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983066
+#EXTINF: -1 tvg-id="Epic Drama" tvg-name="Epic Drama" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL040EpicDrama.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Epic Drama
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983067
+#EXTINF: -1 tvg-id="eleven.sports.2.pl" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL041ELEVENSPORTS2HD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL041:ELEVEN SPORTS 2 HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983068
+#EXTINF: -1 tvg-id="eleven.sports.3.pl" tvg-name="Eleven Sports 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL042ElevenSports3.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL042:Eleven Sports 3
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983069
+#EXTINF: -1 tvg-id="eleven.sports.4.pl" tvg-name="ELEVEN SPORTS 4 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL043ELEVENSPORTS4FHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL043:ELEVEN SPORTS 4 FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983070
+#EXTINF: -1 tvg-id="polsat.sport.premium.2.pl" tvg-name="Polsat Sport Premium 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL044PolsatSportPremium2HD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL044:Polsat Sport Premium 2 HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983071
+#EXTINF: -1 tvg-id="polsat.sport.premium.1.pl" tvg-name="Polsat Sport Premium 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL045PolsatSportPremium1HD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL045:Polsat Sport Premium 1 HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983072
+#EXTINF: -1 tvg-id="id.pl" tvg-name="ID" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL046ID.png" group-title="www.iptvdarmowe.online | DARMOWA TV", ID
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983073
+#EXTINF: -1 tvg-id="eurosport.1.pl" tvg-name="EUROSPORT 1HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL047EUROSPORT1HD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL047:EUROSPORT 1HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983074
+#EXTINF: -1 tvg-id="eurosport.2.pl" tvg-name="EUROSPORT 2HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL048EUROSPORT2HD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL048:EUROSPORT 2HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983075
+#EXTINF: -1 tvg-name="NC+ PR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL049NC+PR.png" group-title="www.iptvdarmowe.online | DARMOWA TV", NC+ PR
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983076
+#EXTINF: -1 tvg-id="FightBox" tvg-name=":FightBox" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL050FightboxFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL050:Fightbox FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983077
+#EXTINF: -1 tvg-id="filmbox.action.pl" tvg-name="FILMBOX ACTION HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL051FILMBOXACTIONHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL051:FILMBOX ACTION HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983078
+#EXTINF: -1 tvg-id="Filmbox Arthouse" tvg-name="Filmbox Arthouse" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL052FilmboxArthouse.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL052:Filmbox Arthouse
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983079
+#EXTINF: -1 tvg-id="filmbox.extra.pl" tvg-name="Filmbox Extra FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL053FilmboxExtraFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL053:Filmbox Extra FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983080
+#EXTINF: -1 tvg-id="filmbox.family.pl" tvg-name="FILMBOX FAMILY FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL054FILMBOXFAMILYFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL054:FILMBOX FAMILY FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983081
+#EXTINF: -1 tvg-id="filmbox.premium.pl" tvg-name="FILMBOX PREMIUM HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL055FILMBOXPREMIUMHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL055:FILMBOX PREMIUM HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983082
+#EXTINF: -1 tvg-id="fokus.pl" tvg-name="FOKUS TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL056FOKUSTV.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL056:FOKUS TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983083
+#EXTINF: -1 tvg-id="fox.comedy.pl" tvg-name="FOX Comedy FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL057FOXComedyFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", FOX Comedy FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983084
+#EXTINF: -1 tvg-id="fox.pl" tvg-name="FOX FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL058FOXFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL058:FOX FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983085
+#EXTINF: -1 tvg-id="Polsat Cafe" tvg-name="Polsat Cafe" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL059PolsatCafe.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Polsat Cafe
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983086
+#EXTINF: -1 tvg-id="ksw.pl" tvg-name="KSW PPV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL060KSWPPVHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", KSW PPV HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983087
+#EXTINF: -1 tvg-name="H2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL061H2HD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", H2 HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983088
+#EXTINF: -1 tvg-id="hbo2.pl" tvg-name="HBO 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL062HBO2FHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL062:HBO 2 FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983089
+#EXTINF: -1 tvg-id="hbo3.pl" tvg-name="HBO 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL063HBO3FHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL063:HBO 3 FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983090
+#EXTINF: -1 tvg-id="hbo.pl" tvg-name="HBO HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL064HBOHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL064:HBO HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983091
+#EXTINF: -1 tvg-id="hgtv.pl" tvg-name="HGTV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL065HGTVFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL065:HGTV FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983092
+#EXTINF: -1 tvg-id="history.pl" tvg-name="HISTORY CHANNEL HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL066HISTORYCHANNELHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", HISTORY CHANNEL HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983093
+#EXTINF: -1 tvg-id="romance.pl" tvg-name="Romance TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL067RomanceTV.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Romance TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983094
+#EXTINF: -1 tvg-id="kino.pl" tvg-name="KINO TV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL068KINOTVFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL068:KINO TV FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983095
+#EXTINF: -1 tvg-id="kuchnia+.pl" tvg-name="Kuchnia HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL069KuchniaHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Kuchnia HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983096
+#EXTINF: -1 tvg-id="lifetime.pl" tvg-name="Lifetime HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL070LifetimeHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Lifetime HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983097
+#EXTINF: -1 tvg-id="metro.pl" tvg-name="METRO" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL071METRO.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL071:METRO
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983098
+#EXTINF: -1 tvg-id="minimini+.pl" tvg-name="MiniMini HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL072MiniMiniHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", MiniMini HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983099
+#EXTINF: -1 tvg-id="Motowizja" tvg-name="Motowizja" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL073MOTORWIZJA.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Motowizja
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983100
+#EXTINF: -1 tvg-id="Stars TV" tvg-name="Stars TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL074STARSTV.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Stars TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983101
+#EXTINF: -1 tvg-id="Red Carpet TV" tvg-name="Red Carpet TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL075RedCarpetTV.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Red Carpet TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983102
+#EXTINF: -1 tvg-id="canal+.sport.2.pl" tvg-name="Canal + Sport 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL076Canal+Sport2FHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL076:Canal + Sport 2 FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983103
+#EXTINF: -1 tvg-id="tvs.pl" tvg-name="TVS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL077TVS.png" group-title="www.iptvdarmowe.online | DARMOWA TV", TVS
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983104
+#EXTINF: -1 tvg-id="Kino Polska Muzyka" tvg-name="Kino Polska Muzyka" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL078MUZYKAPOLSKA.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Kino Polska Muzyka
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983105
+#EXTINF: -1 tvg-id="national.geographic.pl" tvg-name="NAT GEO FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL079NATGEOFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL079:NAT GEO FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983106
+#EXTINF: -1 tvg-id="nat.geo.people.pl" tvg-name="NAT GEO PEOPLE HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL080NATGEOPEOPLEHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL080:NAT GEO PEOPLE HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983107
+#EXTINF: -1 tvg-id="national.geographic.wild.pl" tvg-name="NAT GEO Wild HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL081NATGEOWildHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL081:NAT GEO Wild HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983108
+#EXTINF: -1 tvg-id="Vox Music TV" tvg-name="Vox Music TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL082VOXMUSICTV.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Vox Music TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983109
+#EXTINF: -1 tvg-id="WPolsce.pl" tvg-name="WPolsce.pl" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL083wPolsce.pl.png" group-title="www.iptvdarmowe.online | DARMOWA TV", WPolsce.pl
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983110
+#EXTINF: -1 tvg-id="NOWA TV" tvg-name="NOWA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL084NOWATVHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL084:NOWA TV HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983111
+#EXTINF: -1 tvg-id="nsport+.pl" tvg-name="NSport Plus HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL085NSportPlusHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", NSport Plus HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983112
+#EXTINF: -1 tvg-id="paramount.pl" tvg-name="Paramount Channel FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL086ParamountChannelFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Paramount Channel FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983113
+#EXTINF: -1 tvg-id="planete+.pl" tvg-name="Planete  FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL087PlaneteFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL087:Planete  FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983114
+#EXTINF: -1 tvg-id="Polo TV" tvg-name="Polo TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL088PoloTVHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Polo TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983115
+#EXTINF: -1 tvg-id="polsat.2.pl" tvg-name="POLSAT 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL089POLSAT2FHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", POLSAT 2 FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983116
+#EXTINF: -1 tvg-id="polsat.cafe.pl" tvg-name="POLSAT CAFE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL090POLSATCAFE.png" group-title="www.iptvdarmowe.online | DARMOWA TV", POLSAT CAFE
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983117
+#EXTINF: -1 tvg-id="polsat.doku.pl" tvg-name="Polsat Doku HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL091PolsatDokuHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Polsat Doku HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983118
+#EXTINF: -1 tvg-id="polsat.pl" tvg-name="Polsat FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL092PolsatFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Polsat FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983119
+#EXTINF: -1 tvg-id="polsat.jimjam.pl" tvg-name="Polsat Jim Jam" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL093PolsatJimJam.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Polsat Jim Jam
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983120
+#EXTINF: -1 tvg-id="Polsat Music" tvg-name="Polsat Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL094PolsatMusicHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Polsat Music HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983121
+#EXTINF: -1 tvg-id="superstacja.pl" tvg-name="Travel Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL095TravelChannel.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Travel Channel
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983122
+#EXTINF: -1 tvg-id="polsat.news.pl" tvg-name="Polsat News HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL096PolsatNewsHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL096:Polsat News HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983123
+#EXTINF: -1 tvg-id="polsat.play.pl" tvg-name="Polsat Play FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL097PolsatPlayFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Polsat Play FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983124
+#EXTINF: -1 tvg-id="polsat.romans.pl" tvg-name="POLSAT ROMANS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL098POLSATROMANS.png" group-title="www.iptvdarmowe.online | DARMOWA TV", POLSAT ROMANS
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983125
+#EXTINF: -1 tvg-id="polsat.sport.extra.pl" tvg-name="Polsat Sport Extra FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL099PolsatSportExtraFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Polsat Sport Extra FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983126
+#EXTINF: -1 tvg-id="polsat.sport.fight.pl" tvg-name="POLSAT Sport Fight FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL100POLSATSportFightFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", POLSAT Sport Fight FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983127
+#EXTINF: -1 tvg-id="polsat.sport.pl" tvg-name="Polsat Sport HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL101PolsatSportHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL101:Polsat Sport HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983128
+#EXTINF: -1 tvg-id="polsat.sport.news.pl" tvg-name="Polsat Sport News HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL102PolsatSportNewsHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL102:Polsat Sport News HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983129
+#EXTINF: -1 tvg-name="TVN Siedem" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL103TVNSiedem.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL103:TVN Siedem
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983130
+#EXTINF: -1 tvg-id="canal+.pl" tvg-name="Canal+ HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL104Canal+HD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL104:Canal+ HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983131
+#EXTINF: -1 tvg-id="polsat.viasat.explore.pl" tvg-name="POLSAT Viasat Explore FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL105POLSATViasatExploreFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL105:POLSAT Viasat Explore FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983132
+#EXTINF: -1 tvg-id="polsat.viasat.history.pl" tvg-name="Polsat Viasat History FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL106PolsatViasatHistoryFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL106:Polsat Viasat History FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983133
+#EXTINF: -1 tvg-id="polsat.viasat.nature.pl" tvg-name="Polsat Viasat Nature HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL107PolsatViasatNatureHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL107:Polsat Viasat Nature HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983134
+#EXTINF: -1 tvg-id="POWER TV" tvg-name="POWER TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL108POWERTV.png" group-title="www.iptvdarmowe.online | DARMOWA TV", POWER TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983135
+#EXTINF: -1 tvg-id="puls.2.pl" tvg-name="PULS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL109PULS2.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL109:PULS 2
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983136
+#EXTINF: -1 tvg-id="sci.fi.pl" tvg-name="Sci-Fi HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL110Sci-FiHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL110:Sci-Fi HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983137
+#EXTINF: -1 tvg-id="Sportklub" tvg-name="Sportklub" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL111SportklubHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Sportklub
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983138
+#EXTINF: -1 tvg-name="Sport Klub Polska FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL112SportKlubPolskaFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Sport Klub Polska FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983139
+#EXTINF: -1 tvg-id="Stopklatka TV" tvg-name="Stopklatka TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL113StopklatkaTV.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Stopklatka TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983140
+#EXTINF: -1 tvg-id="tvn.24.biznes.i.swiat.pl" tvg-name="TVN 24 Bis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL114TVN24Bis.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL114:TVN 24 Bis
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983141
+#EXTINF: -1 tvg-id="super.polsat.pl" tvg-name="SUPER POLSAT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL115SUPERPOLSAT.png" group-title="www.iptvdarmowe.online | DARMOWA TV", SUPER POLSAT
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983142
+#EXTINF: -1 tvg-id="teletoon+.pl" tvg-name="Teletoon  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL116TeletoonHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Teletoon  HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983143
+#EXTINF: -1 tvg-id="tlc.pl" tvg-name="TLC FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL117TLCFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", TLC FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983144
+#EXTINF: -1 tvg-id="tnt.pl" tvg-name="TNT FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL118TNTFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL118:TNT FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983145
+#EXTINF: -1 tvg-id="polsat.news.2.pl" tvg-name="Polsat News 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL119PolsatNews2.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL119:Polsat News 2
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983146
+#EXTINF: -1 tvg-id="Polsat Rodzina" tvg-name="Polsat Rodzina" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL120PolsatRodzina.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Polsat Rodzina
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983147
+#EXTINF: -1 tvg-id="ttv.pl" tvg-name="TTV FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL121TTVFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL121:TTV FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983148
+#EXTINF: -1 tvg-id="e.entertainment.pl" tvg-name="E! Entertainment" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL122E!Entertainment.png" group-title="www.iptvdarmowe.online | DARMOWA TV", E! Entertainment
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983149
+#EXTINF: -1 tvg-id="tv.6.pl" tvg-name="TV6" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL123TV6.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL123:TV6
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983150
+#EXTINF: -1 tvg-id="tv.puls.pl" tvg-name="TV Puls FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL124TVPulsFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL124:TV Puls FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983151
+#EXTINF: -1 tvg-id="tv.republika.pl" tvg-name="TV Republika HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL125TVRepublikaHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", TV Republika HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983152
+#EXTINF: -1 tvg-id="tvn.7.pl" tvg-name="TVN 7 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL126TVN7FHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL126:TVN 7 FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983153
+#EXTINF: -1 tvg-id="tvn.24.pl" tvg-name="TVN 24 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL127TVN24FHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL127:TVN 24 FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983154
+#EXTINF: -1 tvg-id="tvn.fabula.pl" tvg-name="TVN Fabula FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL128TVNFabulaFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", TVN Fabula FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983155
+#EXTINF: -1 tvg-id="tvn.pl" tvg-name="TVN FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL129TVNFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL129:TVN FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983156
+#EXTINF: -1 tvg-id="tvn.style.pl" tvg-name="TVN Style FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL130TVNStyleFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", TVN Style FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983157
+#EXTINF: -1 tvg-id="tvn.turbo.pl" tvg-name="TVN Turbo FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL131TVNTurboFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL131:TVN Turbo FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983158
+#EXTINF: -1 tvg-id="tvp.1.pl" tvg-name="TVP 1 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL132TVP1FHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL132:TVP 1 FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983159
+#EXTINF: -1 tvg-id="tvp.2.pl" tvg-name="TVP 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL133TVP2FHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL133:TVP 2 FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983160
+#EXTINF: -1 tvg-id="tvp.3.pl" tvg-name="TVP 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL134TVP3HD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", TVP 3 HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983161
+#EXTINF: -1 tvg-id="tvp.abc.pl" tvg-name="TVP abc HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL135TVPabcHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL135:TVP abc HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983162
+#EXTINF: -1 tvg-id="tvp.historia.pl" tvg-name="TVP Historiy HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL136TVPHistoriyHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", TVP Historiy HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983163
+#EXTINF: -1 tvg-id="tvp.info.pl" tvg-name="TVP Info FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL137TVPInfoFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL137:TVP Info FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983164
+#EXTINF: -1 tvg-id="tvp.kultura.pl" tvg-name="TVP KULTURA HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL138TVPKULTURAHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL138:TVP KULTURA HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983165
+#EXTINF: -1 tvg-id="tvp.polonia.pl" tvg-name="TVP Polonia HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL139TVPPoloniaHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", TVP Polonia HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983166
+#EXTINF: -1 tvg-id="tvp.rozrywka.pl" tvg-name="TVP ROZRYWKA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL140TVPROZRYWKA.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL140:TVP ROZRYWKA
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983167
+#EXTINF: -1 tvg-id="tvp.seriale.pl" tvg-name="TVP SERIALE" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL141TVPSERIALE.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL141:TVP SERIALE
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983168
+#EXTINF: -1 tvg-id="tvp.sport.pl" tvg-name="TVP Sport FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL142TVPSportFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL142:TVP Sport FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983169
+#EXTINF: -1 tvg-id="Canal+1" tvg-name="Canal+1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL143Canal1.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Canal+1
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983170
+#EXTINF: -1 tvg-id="VH1" tvg-name="VH1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL144VH1.png" group-title="www.iptvdarmowe.online | DARMOWA TV", VH1
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983171
+#EXTINF: -1 tvg-id="bbc.brit.pl" tvg-name="Baby TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL145BBCBRIT.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Baby TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983172
+#EXTINF: -1 tvg-id="bbc.cbeebies.pl" tvg-name="BBC CBeebies" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL146BBCCBeebies.png" group-title="www.iptvdarmowe.online | DARMOWA TV", BBC CBeebies
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983173
+#EXTINF: -1 tvg-id="bbc.earth.pl" tvg-name="BBC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL147BBC.png" group-title="www.iptvdarmowe.online | DARMOWA TV", BBC
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983174
+#EXTINF: -1 tvg-id="zoom.pl" tvg-name="ZOOM TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL148ZOOMTV.png" group-title="www.iptvdarmowe.online | DARMOWA TV", ZOOM TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983175
+#EXTINF: -1 tvg-id="13.ulica.pl" tvg-name="13 Ulica HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL14913UlicaHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL149:13 Ulica HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983176
+#EXTINF: -1 tvg-id="4 Fun Dance" tvg-name="4 Fun Dance" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL1504FunDance.png" group-title="www.iptvdarmowe.online | DARMOWA TV", 4 Fun Dance
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983177
+#EXTINF: -1 tvg-id="4Fun Gold" tvg-name="4Fun Gold" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL1514FunGoldHits.png" group-title="www.iptvdarmowe.online | DARMOWA TV", 4Fun Gold Hits
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983178
+#EXTINF: -1 tvg-id="bbc.lifestyle.pl" tvg-name="BBC LifeStyle" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL152BBCLifeStyle.png" group-title="www.iptvdarmowe.online | DARMOWA TV", BBC LifeStyle
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983179
+#EXTINF: -1 tvg-id="Adventure" tvg-name="Adventure" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL153ADVENTUREHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", ADVENTURE HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983180
+#EXTINF: -1 tvg-id="ale.kino+.pl" tvg-name="Ale Kino   HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL154AleKinoHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL154:Ale Kino   HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983181
+#EXTINF: -1 tvg-id="amc.pl" tvg-name="AMC" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL155AMC.png" group-title="www.iptvdarmowe.online | DARMOWA TV", AMC
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983182
+#EXTINF: -1 tvg-id="atm.rozrywka.pl" tvg-name="ATM Rozrywka" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL156ATMRozrywka.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL156:ATM Rozrywka
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983183
+#EXTINF: -1 tvg-id="axn.spin.pl" tvg-name="AXN SPIN HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL157AXNSPINHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL157:AXN SPIN HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983184
+#EXTINF: -1 tvg-id="canal+.discovery.pl" tvg-name="Canal Seriale HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL158CanalSerialeHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL158:Canal Seriale HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983185
+#EXTINF: -1 tvg-id="cartoon.network.pl" tvg-name="Cartoon Network HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL159CartoonNetworkHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL159:Cartoon Network HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983186
+#EXTINF: -1 tvg-id="cbs.action.pl" tvg-name="CBS Action" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL160CBSAction.png" group-title="www.iptvdarmowe.online | DARMOWA TV", CBS Action
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983187
+#EXTINF: -1 tvg-id="cbs.europa.pl" tvg-name="CBS Europa HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL161CBSEuropaHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", CBS Europa HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983188
+#EXTINF: -1 tvg-id="cbs.reality.pl" tvg-name="CBS Reality" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL162CBSReality.png" group-title="www.iptvdarmowe.online | DARMOWA TV", CBS Reality
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983189
+#EXTINF: -1 tvg-id="cinemax2.pl" tvg-name="Cinemax 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL163Cinemax2HD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL163:Cinemax 2 HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983190
+#EXTINF: -1 tvg-id="comedy.central.family.pl" tvg-name="Comedy Central Family" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL164ComedyCentralFamily.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL164:Comedy Central Family
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983191
+#EXTINF: -1 tvg-name="Da Vinci Learning" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL165DaVinciLearning.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Da Vinci Learning
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983192
+#EXTINF: -1 tvg-id="Disco Polo Music" tvg-name="Disco Polo Music" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL166DiscoPoloMusic.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Disco Polo Music
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983193
+#EXTINF: -1 tvg-id="discovery.pl" tvg-name="Discovery Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL167DiscoveryChannel.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL167:Discovery Channel
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983194
+#EXTINF: -1 tvg-id="discovery.life.pl" tvg-name="Discovery Life HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL168DiscoveryLifeHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL168:Discovery Life HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983195
+#EXTINF: -1 tvg-id="disney.junior.pl" tvg-name="Disney Junior" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL169DisneyJunior.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL169:Disney Junior
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983196
+#EXTINF: -1 tvg-id="disney.xd.pl" tvg-name="Disney XD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL170DisneyXD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL170:Disney XD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983197
+#EXTINF: -1 tvg-id="dtx.pl" tvg-name="DTX" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL171DTX.png" group-title="www.iptvdarmowe.online | DARMOWA TV", DTX
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983198
+#EXTINF: -1 tvg-id="eleven.sports.1.pl" tvg-name="Eleven Sports 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL172ElevenSports1HD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL172:Eleven Sports 1 HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983199
+#EXTINF: -1 tvg-id="eleven.sports.2.pl" tvg-name="Eleven Sports 2 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL173ElevenSports2FHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL173:Eleven Sports 2 FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983200
+#EXTINF: -1 tvg-id="eleven.sports.3.pl" tvg-name="Eleven Sports 3 FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL174ElevenSports3FHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL174:Eleven Sports 3 FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983201
+#EXTINF: -1 tvg-id="eleven.sports.4.pl" tvg-name="Eleven Sports 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL175ElevenSports4HD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL175:Eleven Sports 4 HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983202
+#EXTINF: -1 tvg-id="Eska TV Extra" tvg-name="Eska TV Extra" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL176ESKATVExtra.png" group-title="www.iptvdarmowe.online | DARMOWA TV", ESKA TV Extra
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983203
+#EXTINF: -1 tvg-id="filmbox.arthouse.pl" tvg-name="Filmbox Arthouse" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL177FilmboxArthouse.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Filmbox Arthouse
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983204
+#EXTINF: -1 tvg-id="fokus.pl" tvg-name="FOKUS TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL178FOKUSTV.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL178:FOKUS TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983205
+#EXTINF: -1 tvg-id="fox.pl" tvg-name="FOX HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL179FOXHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL179:FOX HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983206
+#EXTINF: -1 tvg-id="Golf Channel" tvg-name="Golf Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL180GolfChannelHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Golf Channel HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983207
+#EXTINF: -1 tvg-name="H2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL181H2HD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", H2 HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983208
+#EXTINF: -1 tvg-name="HIP HOP TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL182HIPHOPTV.png" group-title="www.iptvdarmowe.online | DARMOWA TV", HIP HOP TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983209
+#EXTINF: -1 tvg-id="kino.polska.pl" tvg-name="KINO POLSKA" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL183KINOPOLSKA.png" group-title="www.iptvdarmowe.online | DARMOWA TV", KINO POLSKA
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983210
+#EXTINF: -1 tvg-id="kino.polska.muzyka.pl" tvg-name="Kino Polska Muzyka" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL184KinoPolskaMuzyka.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Kino Polska Muzyka
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983211
+#EXTINF: -1 tvg-id="kino.pl" tvg-name="Kino Tv" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL185KinoTv.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL185:Kino Tv
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983212
+#EXTINF: -1 tvg-id="lifetime.pl" tvg-name="Lifetime HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL186LifetimeHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Lifetime HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983213
+#EXTINF: -1 tvg-id="metro.pl" tvg-name="Metro" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL187Metro.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL187:Metro
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983214
+#EXTINF: -1 tvg-id="minimini+.pl" tvg-name="MiniMini  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL188MiniMiniHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL188:MiniMini  HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983215
+#EXTINF: -1 tvg-id="MTV Dance" tvg-name="MTV Dance" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL189MTVDanceHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", MTV Dance HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983216
+#EXTINF: -1 tvg-id="mtv.polska.pl" tvg-name="MTV Polska HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL190MTVPolskaHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", MTV Polska HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983217
+#EXTINF: -1 tvg-id="nat.geo.people.pl" tvg-name="Nat Geo People HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL191NatGeoPeopleHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL191:Nat Geo People HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983218
+#EXTINF: -1 tvg-id="nowa.pl" tvg-name="NOWA TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL192NOWATV.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL192:NOWA TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983219
+#EXTINF: -1 tvg-id="paramount.pl" tvg-name="Paramount Channel HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL193ParamountChannelHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Paramount Channel HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983220
+#EXTINF: -1 tvg-id="planete+.pl" tvg-name="Planete  HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL194PlaneteHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL194:Planete  HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983221
+#EXTINF: -1 tvg-id="Polo TV" tvg-name="Polo TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL195PoloTV.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Polo TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983222
+#EXTINF: -1 tvg-id="polsat.doku.pl" tvg-name="Polsat Doku FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL196PolsatDokuFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Polsat Doku FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983223
+#EXTINF: -1 tvg-id="polsat.music.pl" tvg-name="Polsat Music FHD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL197PolsatMusicFHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Polsat Music FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983224
+#EXTINF: -1 tvg-id="polsat.romans.pl" tvg-name="POLSAT ROMANS HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL198POLSATROMANSHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", POLSAT ROMANS HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983225
+#EXTINF: -1 tvg-id="Polsat Sport Fight" tvg-name="Polsat Sport Fight" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL199PolsatSportFightHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL199:Polsat Sport Fight HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983226
+#EXTINF: -1 tvg-id="polsat.viasat.explore.pl" tvg-name="Polsat Viasat Explore HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL200PolsatViasatExploreHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL200:Polsat Viasat Explore HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983227
+#EXTINF: -1 tvg-id="polsat.viasat.history.pl" tvg-name="Polsat Viasat History HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL201PolsatViasatHistoryHD.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL201:Polsat Viasat History HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983228
+#EXTINF: -1 tvg-id="polsat.viasat.nature.pl" tvg-name="Polsat Viasat Nature" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL202PolsatViasatNature.png" group-title="www.iptvdarmowe.online | DARMOWA TV", PL202:Polsat Viasat Nature
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983229
+#EXTINF: -1 tvg-id="POWER TV" tvg-name="POWER TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL203PowerTV.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Power TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983230
+#EXTINF: -1 tvg-id="puls.2.pl" tvg-name="Nick JR" tvg-logo="http://www.tvboxgroup.com/iptv/logo/PL/PL204Puls2.png" group-title="www.iptvdarmowe.online | DARMOWA TV", Nick JR
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/33983231
+#EXTINF: -1 group-title="www.IPTvizja.PL | Filmy Polskie|", Psy 3
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/29390324
+#EXTINF: -1 group-title="www.IPTvizja.PL | Filmy Polskie|", Solid Gold 2019
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/35652376
+#EXTINF: -1 tvg-id="TVP HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558715.png" group-title="Ogólnotematyczne", TVP HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513623
+#EXTINF: -1 tvg-id="TVP 2" tvg-name="TVP 2 HD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558711.png" group-title="Ogólnotematyczne", TVP 2
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513624
+#EXTINF: -1 tvg-id="TVP 2" tvg-name="TVP 2 HD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/b27bd0a0-ef70-11e9-a0f7-ed721e1a9b74/29808/5666113.png" group-title="Ogólnotematyczne", TVP 2 HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513625
+#EXTINF: -1 tvg-id="Polsat" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48779/7726621.png" group-title="Ogólnotematyczne", Polsat
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19730376
+#EXTINF: -1 tvg-id="Polsat 2" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48779/7726623.png" group-title="Ogólnotematyczne", Polsat 2
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19730377
+#EXTINF: -1 tvg-id="TVN" tvg-logo="https://xpic.webox-eg.com/PL/TVN.png" group-title="Ogólnotematyczne", TVN
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/21009648
+#EXTINF: -1 tvg-id="TV 4" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48779/7726630.png" group-title="Ogólnotematyczne", TV 4
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/21028990
+#EXTINF: -1 tvg-id="TVN 7" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48779/7726627.png" group-title="Ogólnotematyczne", TVN 7
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/21018989
+#EXTINF: -1 tvg-id="TV Puls" tvg-name="TV Puls HD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/b27bd0a0-ef70-11e9-a0f7-ed721e1a9b74/29808/5666128.png" group-title="Ogólnotematyczne", TV Puls
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513626
+#EXTINF: -1 tvg-id="Puls 2" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48779/7726636.png" group-title="Ogólnotematyczne", TV Puls 2
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20995121
+#EXTINF: -1 tvg-id="Tele5.pl" tvg-logo="https://m3u-editor.com/storage/channel-logos/b27bd0a0-ef70-11e9-a0f7-ed721e1a9b74/29808/5666141.png" group-title="Ogólnotematyczne", TELE 5
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513627
+#EXTINF: -1 tvg-id="TVP ABC" tvg-logo="https://m3u-editor.com/storage/channel-logos/b27bd0a0-ef70-11e9-a0f7-ed721e1a9b74/29808/5666135.png" group-title="Ogólnotematyczne", TVP abc
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513628
+#EXTINF: -1 tvg-id="TVP Polonia" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48779/7726644.png" group-title="Ogólnotematyczne", TVP Polonia
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19731667
+#EXTINF: -1 tvg-id="TTV" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48783/7726747.png" group-title="Ogólnotematyczne", TTV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22038906
+#EXTINF: -1 tvg-id="13 Ulica" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48785/7726849.png" group-title="Filmy i seriale", 13 Ulica
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19730379
+#EXTINF: -1 tvg-id="Ale Kino+" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48785/7726821.png" group-title="Filmy i seriale", AleKino HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19730378
+#EXTINF: -1 tvg-id="Canal+" tvg-name="Canal+ HD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558710.png" group-title="Filmy i seriale", Canal+ HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513634
+#EXTINF: -1 tvg-id="Canal+" tvg-logo="https://m3u-editor.com/storage/channel-logos/b27bd0a0-ef70-11e9-a0f7-ed721e1a9b74/29809/5666151.png" group-title="Filmy i seriale", CANAL+ FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513635
+#EXTINF: -1 tvg-id="Canal+ Film" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48785/7726818.png" group-title="Filmy i seriale", Canal+ Film HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19730380
+#EXTINF: -1 tvg-id="Canal+ Seriale" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48785/7726820.png" group-title="Filmy i seriale", Canal+ Seriale HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19730381
+#EXTINF: -1 tvg-id="Canal+ Family" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48785/7726816.png" group-title="Filmy i seriale", Canal+ Family
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/21028994
+#EXTINF: -1 tvg-id="HBO" tvg-name="HBO 1 HD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558703.png" group-title="Filmy i seriale", HBO
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513629
+#EXTINF: -1 tvg-id="HBO" tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558703.png" group-title="Filmy i seriale", HBO HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/21028999
+#EXTINF: -1 tvg-id="HBO" tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558703.png" group-title="Filmy i seriale", HBO FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513630
+#EXTINF: -1 tvg-id="HBO 2 HD" tvg-name="HBO2 FHD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558704.png" group-title="Filmy i seriale", HBO 2 HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513631
+#EXTINF: -1 tvg-id="HBO 2 HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/b27bd0a0-ef70-11e9-a0f7-ed721e1a9b74/29809/5666148.png" group-title="Filmy i seriale", HBO2 FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513632
+#EXTINF: -1 tvg-id="HBO 3 HD" tvg-name="HBO 3" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36846/6285270.png" group-title="Filmy i seriale", HBO 3
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513633
+#EXTINF: -1 tvg-id="HBO 3 HD" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36846/6285270.png" group-title="Filmy i seriale", HBO 3 HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/21028998
+#EXTINF: -1 tvg-id="AXN" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48785/7726825.png" group-title="Filmy i seriale", AXN
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19731788
+#EXTINF: -1 tvg-id="AXN" tvg-logo="https://m3u-editor.com/storage/channel-logos/b27bd0a0-ef70-11e9-a0f7-ed721e1a9b74/29809/5666186.png" group-title="Filmy i seriale", AXN FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513637
+#EXTINF: -1 tvg-id="Cinemax" tvg-name="CineMax 1 HD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/b27bd0a0-ef70-11e9-a0f7-ed721e1a9b74/29809/5666155.png" group-title="Filmy i seriale", Cinemax HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513641
+#EXTINF: -1 tvg-id="Cinemax" tvg-logo="https://m3u-editor.com/storage/channel-logos/b27bd0a0-ef70-11e9-a0f7-ed721e1a9b74/29809/5666156.png" group-title="Filmy i seriale", Cinemax FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513642
+#EXTINF: -1 tvg-id="Cinemax 2" tvg-name="Cinemax 2 HD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/b27bd0a0-ef70-11e9-a0f7-ed721e1a9b74/29809/5666157.png" group-title="Filmy i seriale", Cinemax 2 HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513643
+#EXTINF: -1 tvg-id="Cinemax 2" tvg-logo="https://m3u-editor.com/storage/channel-logos/b27bd0a0-ef70-11e9-a0f7-ed721e1a9b74/29809/5666158.png" group-title="Filmy i seriale", Cinemax 2 FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513644
+#EXTINF: -1 tvg-id="Polsat Film" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48785/7726822.png" group-title="Filmy i seriale", Polsat Film
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22038945
+#EXTINF: -1 tvg-id="FilmBox Action" tvg-name="Filmbox Action HD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/b27bd0a0-ef70-11e9-a0f7-ed721e1a9b74/29809/5666159.png" group-title="Filmy i seriale", Film Box Action
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513646
+#EXTINF: -1 tvg-id="Filmbox Family" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48785/7726840.png" group-title="Filmy i seriale", Filmbox Family
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22047282
+#EXTINF: -1 tvg-id="FOX" tvg-name="FOX HD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36846/6283440.png" group-title="Filmy i seriale", Fox HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513638
+#EXTINF: -1 tvg-id="FOX" tvg-name="fox" tvg-logo="https://m3u-editor.com/storage/channel-logos/b27bd0a0-ef70-11e9-a0f7-ed721e1a9b74/29809/5666170.png" group-title="Filmy i seriale", FOX FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513639
+#EXTINF: -1 tvg-id="FOX Comedy" tvg-name="Fox Comedy PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/b27bd0a0-ef70-11e9-a0f7-ed721e1a9b74/29809/5666171.png" group-title="Filmy i seriale", Fox Comedy HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513640
+#EXTINF: -1 tvg-id="Canal+ Seriale" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48785/7726867.png" group-title="Filmy i seriale", TVP Seriale
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22047281
+#EXTINF: -1 tvg-id="Kino Polska" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48785/7726853.png" group-title="Filmy i seriale", Kino Polska
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22045058
+#EXTINF: -1 tvg-id="TNT" tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558709.png" group-title="Filmy i seriale", TNT HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513649
+#EXTINF: -1 tvg-id="TVP Sport" tvg-logo="http://195.154.221.171/picons/tvpsporthdpl.png" group-title="Sportowe", TVP Sport
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19731668
+#EXTINF: -1 tvg-id="Eleven Sports 1" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48782/7726699.png" group-title="Sportowe", Eleven Sport 1
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19730387
+#EXTINF: -1 tvg-id="Eleven Sports 3" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48782/7726701.png" group-title="Sportowe", Eleven Sports 3
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22053517
+#EXTINF: -1 tvg-id="Eleven Sports 2" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48782/7726700.png" group-title="Sportowe", Eleven Sport 2
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19730388
+#EXTINF: -1 tvg-id="Eleven Sports 4" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48782/7726704.png" group-title="Sportowe", Eleven Sports 4
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22053518
+#EXTINF: -1 tvg-id="Canal+ Sport" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48782/7726705.png" group-title="Sportowe", Canal+ Sport
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19730386
+#EXTINF: -1 tvg-id="nSport+.pl" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48782/7726710.png" group-title="Sportowe", nSport+
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/21029011
+#EXTINF: -1 tvg-id="Canal+ Sport 2" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48782/7726708.png" group-title="Sportowe", Canal+ Sport 2
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/21029010
+#EXTINF: -1 tvg-id="Eurosport" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48782/7726724.png" group-title="Sportowe", Eurosport 1
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22053516
+#EXTINF: -1 tvg-id="Eurosport 1 HD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36847/6283458.png" group-title="Sportowe", Eurosport 2 HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513650
+#EXTINF: -1 tvg-id="Polsat Sport" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48782/7726712.png" group-title="Sportowe", Polsat Sport HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513654
+#EXTINF: -1 tvg-id="Polsat Sport" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48782/7726713.png" group-title="Sportowe", Polsat Sport FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513655
+#EXTINF: -1 tvg-id="Polsat Sport Extra" tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558706.png" group-title="Sportowe", Polsat Sport Extra
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513653
+#EXTINF: -1 tvg-id="Polsat Sport Fight" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48782/7726719.png" group-title="Sportowe", Polsat Sport Fight
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22053523
+#EXTINF: -1 tvg-id="Polsat Sport Premium 1" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48782/7859338.png" group-title="Sportowe", Polsat Sport premium 1
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22053519
+#EXTINF: -1 tvg-id="Polsat Sport Premium 2" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48782/7726722.png" group-title="Sportowe", Polsat Sport premium 2
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22053520
+#EXTINF: -1 tvg-id="Extreme" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36847/6283461.png" group-title="Sportowe", Extreme Sport TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513652
+#EXTINF: -1 tvg-id="Adventure" tvg-name="Adventure FHD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36848/6283466.png" group-title="Przyrodnicze i dokumentalne", Adventure HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513656
+#EXTINF: -1 tvg-id="Animal Planet" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48784/7726771.png" group-title="Przyrodnicze i dokumentalne", Animal Planet
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22053539
+#EXTINF: -1 tvg-id="Planete+" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48784/7726792.png" group-title="Przyrodnicze i dokumentalne", Planete+
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22053538
+#EXTINF: -1 tvg-id="BBC Brit" tvg-name="BBC Brit FHD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36848/6283468.png" group-title="Przyrodnicze i dokumentalne", BBC Brit
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513665
+#EXTINF: -1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle HD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36848/6283467.png" group-title="Przyrodnicze i dokumentalne", BBC Lifetsyle
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513664
+#EXTINF: -1 tvg-id="Discovery Channel" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48784/7726778.png" group-title="Przyrodnicze i dokumentalne", Discovery Channel
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19731906
+#EXTINF: -1 tvg-id="Discovery Science" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48784/7726783.png" group-title="Przyrodnicze i dokumentalne", Discovery Science
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/21029012
+#EXTINF: -1 tvg-id="Canal+ Discovery" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48784/7726776.png" group-title="Przyrodnicze i dokumentalne", Canal+ Discovery
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/21098220
+#EXTINF: -1 tvg-id="NatGeo.pl" tvg-name="Nat Geo PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36848/6283473.png" group-title="Przyrodnicze i dokumentalne", National Geographic HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513659
+#EXTINF: -1 tvg-id="NatGeoWildHD.pl" tvg-name="Nat Geo Wild PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36848/6283476.png" group-title="Przyrodnicze i dokumentalne", Nat Geo Wild
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513660
+#EXTINF: -1 tvg-id="Nat Geo People" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48784/7726789.png" group-title="Przyrodnicze i dokumentalne", Nat Geo People
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20998388
+#EXTINF: -1 tvg-id="HISTORY" tvg-name="History PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36848/6283472.png" group-title="Przyrodnicze i dokumentalne", History HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513657
+#EXTINF: -1 tvg-id="CrimeInvestigation.pl" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48784/7726798.png" group-title="Przyrodnicze i dokumentalne", Polsat Crime+ Investigation
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22047285
+#EXTINF: -1 tvg-id="POLSAT Viasat Explore" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48784/7726795.png" group-title="Przyrodnicze i dokumentalne", Polsat Viasat Explore
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22053535
+#EXTINF: -1 tvg-id="Polsat Viasat Nature" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48784/7726797.png" group-title="Przyrodnicze i dokumentalne", Polsat Viasat Nature
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22053536
+#EXTINF: -1 tvg-id="POLSAT Viasat Explore" tvg-name="POLSAT Viasat History FHD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36848/6283477.png" group-title="Przyrodnicze i dokumentalne", Viasat History HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513662
+#EXTINF: -1 tvg-id="Polsat Viasat History" tvg-name="Polsat Viasat History FHD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36848/6283478.png" group-title="Przyrodnicze i dokumentalne", Polsat Viasat History FHD PL
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513663
+#EXTINF: -1 tvg-id="Polsat Doku" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48784/7726794.png" group-title="Przyrodnicze i dokumentalne", Polsat Doku
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22053537
+#EXTINF: -1 tvg-id="Travel Channel" tvg-name="Travel HD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36848/6283479.png" group-title="Przyrodnicze i dokumentalne", Travel Channel HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513666
+#EXTINF: -1 tvg-id="TVP Historia" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36848/6283480.png" group-title="Przyrodnicze i dokumentalne", TVP Historia
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513667
+#EXTINF: -1 tvg-id="Minimini+" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48786/7726876.png" group-title="Dziecięce", MiniMini+ HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19730382
+#EXTINF: -1 tvg-id="Cartoon Network" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36849/6283484.png" group-title="Dziecięce", Cartoon Network FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513670
+#EXTINF: -1 tvg-id="BBC CBeebies" tvg-name="Cbeebies PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36849/6283483.png" group-title="Dziecięce", BBC Ceebeebies
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513669
+#EXTINF: -1 tvg-id="Baby TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36849/6283482.png" group-title="Dziecięce", Baby TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513668
+#EXTINF: -1 tvg-id="Minimini+" tvg-name="MiniMini+ HD PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36849/6283485.png" group-title="Dziecięce", MiniMini HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513671
+#EXTINF: -1 tvg-id="VH1.pl" tvg-logo="https://m3u-editor.com/storage/channel-logos/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/129578/19730383.png" group-title="Muzyczne", Viva Polska
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19730383
+#EXTINF: -1 tvg-id="Eska TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48781/7726676.png" group-title="Muzyczne", EskaTV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22053531
+#EXTINF: -1 tvg-id="MTV Polska" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48781/7726684.png" group-title="Muzyczne", MTV Polska
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513672
+#EXTINF: -1 tvg-id="Trace Urban" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48781/7726696.png" group-title="Muzyczne", Trace Urban
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19730384
+#EXTINF: -1 tvg-id="4fun TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48781/7726678.png" group-title="Muzyczne", 4Fun TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19730385
+#EXTINF: -1 tvg-id="Polsat Music" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36850/6283492.png" group-title="Muzyczne", Polsat Music HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513676
+#EXTINF: -1 tvg-id="Disco Polo Music" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48781/7726686.png" group-title="Muzyczne", Disco Polo Music
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22038058
+#EXTINF: -1 tvg-id="Polo TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48781/7726689.png" group-title="Muzyczne", PoloTV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22053532
+#EXTINF: -1 tvg-id="TVN 24" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36851/6283494.png" group-title="Wiadomosci", TVN 24
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513679
+#EXTINF: -1 tvg-id="TVN 24 BiS" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48780/7726669.png" group-title="Wiadomosci", TVN 24 BiS
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/21028992
+#EXTINF: -1 tvg-id="TVP Info" tvg-name="TVP Info PL" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36851/6283497.png" group-title="Wiadomosci", TVP Info PL
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513681
+#EXTINF: -1 tvg-id="TVP Info" tvg-logo="https://vizja.nl/TV/tvp_info.png" group-title="Wiadomosci", TVP Info
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19731666
+#EXTINF: -1 tvg-id="Polsat News" tvg-logo="https://vizja.nl/TV/polsat_news.png" group-title="Wiadomosci", Polsat News
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/21028993
+#EXTINF: -1 group-title="Wiadomosci", Polsat News 2
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/24252818
+#EXTINF: -1 tvg-id="Republika TV" tvg-logo="https://vizja.nl/TV/tv-republika-pl.png" group-title="Lifestylowe i inne", TV Republika
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19731787
+#EXTINF: -1 tvg-id="TVN Style" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48783/7726758.png" group-title="Lifestylowe i inne", TVN Style
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22053529
+#EXTINF: -1 tvg-id="TVN Turbo" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48783/7726737.png" group-title="Lifestylowe i inne", TVN Turbo
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22053528
+#EXTINF: -1 tvg-id="TVN Fabula" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36852/6283511.png" group-title="Lifestylowe i inne", TVN Fabula
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22038944
+#EXTINF: -1 tvg-id="TVN Fabula" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36852/6283511.png" group-title="Lifestylowe i inne", TVN Fabula FHD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513684
+#EXTINF: -1 tvg-id="Polsat Cafe" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48783/7726751.png" group-title="Lifestylowe i inne", Polsat Cafe
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22047283
+#EXTINF: -1 tvg-id="Polsat Play" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48785/7726753.png" group-title="Lifestylowe i inne", Polsat Play
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22047284
+#EXTINF: -1 tvg-id="KUCHNIA.TV.pl" tvg-logo="https://m3u-editor.com/storage/channel-logos/8d1f7070-0aa0-11ea-ae91-839c90f57258/48783/7726739.png" group-title="Lifestylowe i inne", Kuchnia+
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22047286
+#EXTINF: -1 tvg-id="TLC" tvg-logo="https://m3u-editor.com/storage/channel-logos/5ea78750-f98a-11e9-b7ce-b7524dc97d3c/36881/6286131.png" group-title="Lifestylowe i inne", TLC
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/22053527
+#EXTINF: -1 tvg-id="Da Vinci Learning" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36852/6283498.png" group-title="Lifestylowe i inne", Da Vinci
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513682
+#EXTINF: -1 tvg-id="To!TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36852/6283509.png" group-title="Lifestylowe i inne", TO!TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513689
+#EXTINF: -1 tvg-id="HGTV" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36852/6283501.png" group-title="Lifestylowe i inne", HGTV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513686
+#EXTINF: -1 tvg-id="MANGO" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36852/6283503.png" group-title="Lifestylowe i inne", Mango
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513690
+#EXTINF: -1 tvg-id="NTL Radomsko" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36852/6283507.png" group-title="Lifestylowe i inne", NTL
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513688
+#EXTINF: -1 tvg-id="WP.pl" tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36852/6283514.png" group-title="Lifestylowe i inne", WP
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513685
+#EXTINF: -1 tvg-id="TRWAM" tvg-logo="https://vizja.nl/TV/tv_trwam.png" group-title="Lifestylowe i inne", TV Trwam
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19731786
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558890.png" group-title="Lifestylowe i inne", Hope channel Polska HD
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19730389
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rrukOU4.png" group-title="Lifestylowe i inne", dlaCiebie TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19730393
+#EXTINF: -1 tvg-id="Zest TV" tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558684.png" group-title="Lifestylowe i inne", Zest TV
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513716
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/129578/19731244.png" group-title="Lifestylowe i inne", Czwórka Polskie Radio
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/19731244
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558891.png" group-title="Regionalne", TV Toruń
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513692
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558892.png" group-title="Regionalne", TV Kujawy
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513693
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/342adea0-d498-11e9-9cba-591184c63283/13578/3558893.png" group-title="Regionalne", TVT Zgorzelec
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513694
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/2b3c5e90-f97d-11e9-b90e-c10e2cba1c74/36855/6283541.png" group-title="Regionalne", Telewizja Wielkopolska
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513695
+#EXTINF: -1 tvg-logo="https://m3u-editor.com/storage/channel-logos/3adcafa0-df8b-11e9-80ca-774da01e0058/23379/4299779.jpg" group-title="Regionalne", WTK
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513696
+#EXTINF: -1 tvg-id="TVP 3 Bialystok PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="Regionalne", TVP3 Bialystok
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513697
+#EXTINF: -1 tvg-id="TVP 3 Bydgoszcz PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="Regionalne", TVP3 Bydgoszcz
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513698
+#EXTINF: -1 tvg-id="TVP 3 Gdansk PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="Regionalne", TVP3 Gdansk
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513699
+#EXTINF: -1 tvg-id="TVP 3 Gorzow Wielkopolski PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="Regionalne", TVP3 Gorzow Wielkopolski
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513700
+#EXTINF: -1 tvg-id="TVP 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="Regionalne", TVP3 Info
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513701
+#EXTINF: -1 tvg-id="TVP 3 Katowice PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="Regionalne", TVP3 Katowice
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513702
+#EXTINF: -1 tvg-id="TVP 3 Kielce PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="Regionalne", TVP3 Kielce
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513703
+#EXTINF: -1 tvg-id="TVP 3 Krakow PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="Regionalne", TVP3 Krakow
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513704
+#EXTINF: -1 tvg-id="TVP 3 Lodz PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="Regionalne", TVP3 Lodz
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513705
+#EXTINF: -1 tvg-id="TVP 3 Lublin PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="Regionalne", TVP3 Lublin
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513706
+#EXTINF: -1 tvg-id="TVP 3 Olsztyn PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="Regionalne", TVP3 Olsztyn
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513707
+#EXTINF: -1 tvg-id="TVP 3 Opole PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="Regionalne", TVP3 Opole
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513708
+#EXTINF: -1 tvg-id="TVP 3 Poznan PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="Regionalne", TVP3 Poznan
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513709
+#EXTINF: -1 tvg-id="TVP 3 Rzeszow PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="Regionalne", TVP3 Rzeszow
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513710
+#EXTINF: -1 tvg-id="TVP 3 Szczecin PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="Regionalne", TVP3 Szczecin
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513711
+#EXTINF: -1 tvg-id="TVP 3 Warszawa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="Regionalne", TVP3 Warszawa
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513712
+#EXTINF: -1 tvg-id="TVP 3 Wroclaw PL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/TVP3_logo_2016.png/1200px-TVP3_logo_2016.png" group-title="Regionalne", TVP3 Wroclaw
+https://m3u-editor.com/serve/5aff24f0-574b-11ea-b0a1-b172ac74c1ee/20513713
+
+
